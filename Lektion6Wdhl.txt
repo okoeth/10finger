@@ -1,8 +1,8 @@
-asdfjklö asdefölkij asdfjklö asdefölkij asdfjklö asdefölkikj
+asdfjklö asdefölkij asdfjklö asdefölkik asdfjklö asdefölkikj
 asdfjklö asdefölkij asdfjklö asdefölkij asdfjklö asdefölkikj
 asdfjklö asdefölkij asdfjklö asdefölkij asdfjklö asdefölkikj
 
-ölkiasdf ölk,kasdcd ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcdf
+ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcdf
 ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcdf
 ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcd ölkjasdf ölk,kasdcdf
 
@@ -22,7 +22,7 @@ frfjuj frfjuj frdesa jukilö frdesa frfjuj frfjuj frdesa jukil
 frfded jujkik frfdcd jujk,k frfded jujkik frfdcd jujk,k rfded
 ujk,ki rfdcde ujk,ki rfdcde ujk,ki rfdcde ujk,ki rfdcde ujk,k
 
-fra juö frs jul frd juk öul ars örk aud örj auf fru jur fr ju
+fra juö frs jul frd juk örl aus örk aud örj auf fru jur fr ju
 ruj urf fua jrö dua krö sua lrö kuj drf luj srf öuj arf rf uj
 
 ---
@@ -42,54 +42,16 @@ die Frage, die Freude, die Ruhe, der Karl, die Karla, Kuckuck
 die Kugelfische, der Hilferuf, der Kuckucksruf, die Ruhelage,
 die Kugelfische, der Hilferuf, der Kuckucksruf, die Ruhelage,
 
-Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
-Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
-Sage Adelheid, hier höre jeder diese Ku,kucksrufe sehr leise;
-Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
-Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
-
-Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
-Karla dage sehr leise, dieser Löffek gehöre sicherlich Adele;
-Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
-Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
-
-frfr juju frfr juju frfr juju frfr juju frfr juju frfr juju r
-fruj jurf fruj jurf fruj jurf fruj jurf fruj jurf fruj jurf u
-
-fra juö fra juö fra juö fra juö fra juö fra juö fra juö fra r
-raf uöj raf uöj raf uöj raf uöj raf uöj raf uöj raf uöj raf u
-
-rsf ulj rsf ulj rsf ulj rsf ulj rsf ulj rsf ulj rsf ulj rsf r
-rdf ukj rdf ukj rdf ukj rdf ukj rdf ukj rdf ukj rdf ukj rdf u
-
-örd auj örf auj örf auj örf auj örf auj örf auj örf auj örf r
-öre aui öre aui öre aui öre aui öre aui öre aui öre aui öre u
-
-ref uij ref uij ref uij ref uij ref uij ref uij ref uij ref e
-aer öiu aer öiu aer öiu aer öiujaer öiu aer öiu aer öiu aer i
-
-asderfd ölkiujk asderfd ölkiujk asderfd ölkiujk asderfd ölkiu
-dfresas kjuiklö dfredas kjuiklö dfresas kjuiklö dfredas uiklö
-
 ---
 
-Hirse Haus Rede Reeder Reederei Dur Kur Uhr Ruhr Kuli Ulli Öl
-Hirse Haus Rede Reeder Reederei Dur Kur Uhr Ruhr Kuli Ulli Öl
+Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
+Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
+Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
+Sage Adelheid, hier höre jeder diese Kuckucksrufe sehr leise;
+Sage Adelheid, hier höre jeder siese Kuckucksrufe sehr leise;
 
-Jura Frau Erde Ilse Juli Frage Iller Erdöl Jahr Friede Julius
-Jura Frau Erde Ilse Juli Frage Iller Erdöl Jahr Friede Julius
+Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
+Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
+Karla sage segr leise, dieser Löffel gehöre sicherlich Adele;
+Karla sage sehr leise, dieser Löffel gehöre sicherlich Adele;
 
----
-
-auf dieser Reise, das Ufer der Saale, raufe die Haare, das Ei
-auf dieser Reise, das Ufer der Saale, raufe die Haare, das Ei
-
-rufe Julius her, rufe Frau Krause, Adelheid lege alles darauf
-sei ruhig Ilse, sieh da Ulli, auch Karla sah die Fischerei da
-
-
-
---- bugs
-ich, ach, ich, ach, ich, ach, ich, ach, ich, ach, ich, ach,
-ich, ach, ich, ach, ich, ach, ich, ach, ich, ach, ich, ach,
-ich, ach, ich, ach, ich, ach, ich, ach, ich, ach, ich, ach,
